@@ -540,7 +540,17 @@ TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 
-🔞玩偶（无法播放请用影视APP）_0595,#genre#
+🔞河北彩花YYDS_0595,#genre#
+ssis-129河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
+ssis-158河北彩花,https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/871ae2a0/index.m3u8
+ssis-194河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
+ssis-280河北彩花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
+ssis-308河北彩花,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4ca0e556/index.m3u8
+SSNI-266河北彩花,http://videocdn.dlyilian.com:8091/20190101/SQKI4GRL266/index.m3u8
+SSNI-216河北彩花,http://videocdn.dlyilian.com:8091/20181231/SKLN0TRY216/index.m3u8
+ssis-252河北彩花,https://play92332.com/20211205/gWRZcJHT/1703kb/hls/index.m3u8
+
+🔞玩偶_0595,#genre#
 情侣游戏 零,https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 情侣游戏 壹,https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
 一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
