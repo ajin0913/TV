@@ -469,6 +469,7 @@ NGOD-072c本莊優花,http://videocdn.quweikm.com:8091/20181001/NGOD-072c/index.
 KSBJ-036c本莊優花,http://videocdn.quweikm.com:8091/20181001/KSBJ-036c/index.m3u8
 rbd-868本莊優花,https://t5s.cdn2020.com/video/m3u8/2020/11/24/1a297d76/index.m3u8
 mdyd-913本莊優花,https://t16.cdn2020.com:12340/video/m3u8/2022/02/24/6fb6acba/index.m3u8
+jul-131佐知子,https://play92332.com/20200306/ShiZTE38/1367kb/hls/index.m3u8
 JUL-155三浦歩美,https://ao-block-ater.mushroomtrack.com/bcdn_token=t1S7m0rwUyZVt8U4EtgjKJ3Y-4gz5UuLl8EQ9bExBKU&expires=1671788609&token_path=%2Fvod%2F/vod/6000/6229/6229.m3u8
 jul-285三浦歩美,https://t4s.cdn2020.com/video/m3u8/2020/08/12/de2611d6/index.m3u8
 jul-274三浦歩美,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/16/32647717/index.m3u8
