@@ -280,6 +280,12 @@ CETV4,http://localhost:8080/www/cqyx.php?id=cetv-4SD
 西藏卫视,http://localhost:8080/www/cqyx.php?id=xizangSD
 中国天气,http://localhost:8080/www/cqyx.php?id=tianqiSD
 
+泉州,#genre#
+泉州1套高清,https://live.v1.mk/api/fjgd.php?id=qz1
+泉州2套,https://live.v1.mk/api/fjgd.php?id=qz2
+泉州3套,https://live.v1.mk/api/fjgd.php?id=qz3
+泉州4套,https://live.v1.mk/api/fjgd.php?id=qz4
+
 港澳台综合,#genre#
 台视,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
