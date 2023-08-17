@@ -383,7 +383,7 @@ TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 
-🔞河北彩花YYDS,#genre#
+🔞河北彩花YYDS_0595,#genre#
 ssis-129河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
 ssis-158河北彩花,https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/871ae2a0/index.m3u8
 ssis-194河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
