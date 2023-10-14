@@ -194,13 +194,15 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 🔞河北彩花YYDS_0595,#genre#
 ssis-129河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
 ssis-158河北彩花,https://video19.tangrenfuli.com/video/20220321/3b0af7b20f641bfe6482b83753d354c8/index.m3u8
-ssis-158河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01ee1dce/index.m3u8
+ssis-158河北彩花,https://video7.balecao.com/video/20211105/3ca7eb4f3d4c31d5945873583213bee1/index.m3u8
 ssis-194河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
-SSNI-216河北彩花,http://videocdn.dlyilian.com:8091/20181231/SKLN0TRY216/index.m3u8
+ssis-222河北彩花,https://video9.balecao.com/video/20211215/4f3dd2af306a65da8b864cec2855f6b0/index.m3u8
 ssis-252河北彩花,https://play92332.com/20211205/gWRZcJHT/1703kb/hls/index.m3u8
-SSNI-266河北彩花,http://videocdn.dlyilian.com:8091/20190101/SQKI4GRL266/index.m3u8
+ssis-252河北彩花,https://video19.tangrenfuli.com/video/20220330/a2d832bedd0b759ca7ef764a4f8fdb97/index.m3u8
+
+SSNI-266河北彩花,
 ssis-280河北彩花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
-ssis-308河北彩花,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4ca0e556/index.m3u8
+ssis-308河北彩花,
 ssis-361河北彩花,https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/5e6c7ad8/index.m3u8
 
 
