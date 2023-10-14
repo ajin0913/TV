@@ -197,13 +197,29 @@ ssis-158河北彩花,https://video19.tangrenfuli.com/video/20220321/3b0af7b20f64
 ssis-158河北彩花,https://video7.balecao.com/video/20211105/3ca7eb4f3d4c31d5945873583213bee1/index.m3u8
 ssis-194河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
 ssis-222河北彩花,https://video9.balecao.com/video/20211215/4f3dd2af306a65da8b864cec2855f6b0/index.m3u8
-ssis-252河北彩花,https://play92332.com/20211205/gWRZcJHT/1703kb/hls/index.m3u8
 ssis-252河北彩花,https://video19.tangrenfuli.com/video/20220330/a2d832bedd0b759ca7ef764a4f8fdb97/index.m3u8
-
-SSNI-266河北彩花,
 ssis-280河北彩花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
-ssis-308河北彩花,
+oae-214河北彩花,https://video46.avnyg.com/video/20230222/a627a5508d139667a6bbb7de7437b417/index.m3u8
+ssis-308河北彩花,https://video31.avnyg.com/video/20220611/c9c1ad20c7be5486eece0a7dc57f2b79/index.m3u8
+ssis-334河北彩花,https://video26.avnyg.com/video/20220517/206b4f63368c1c8c6eaea9b7797b356c/index.m3u8
 ssis-361河北彩花,https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/5e6c7ad8/index.m3u8
+ssis-387河北彩花,https://video42.bpzy1.com/video/20221226/8706c2849e765a3457f0885d8f29a091/index.m3u8
+ssis-413河北彩花,
+ssis-440河北彩花,
+ssis-468河北彩花,https://play2.sewobofang.com/20230223/T4p7cL1x/index.m3u8
+ssis-499河北彩花,https://play3.laoyacdn.com/20230222/eysrYuAm/index.m3u8
+ssis-531河北彩花,https://video50.avnyg.com/video/20230319/e477780ac5b219d32bee6a422fb3b258/index.m3u8
+ssis-560河北彩花,https://video45.balecao.com/video/20230223/a321c8e2fba9419cc67e78b8a8bf3ee0/index.m3u8
+oae-228河北彩花,https://video49.balecao.com/video/20230330/f9faa5013052b7d6caf2ce8369e0262a/index.m3u8
+ssis-586河北彩花,https://vip3.bfbfhao.com/20230810/7H6N1Thq/index.m3u8
+ssis-595河北彩花,https://vip3.bfbfhao.com/20230918/NaScF82p/index.m3u8
+ssis-607河北彩花,https://t21.cdn2020.com/video/m3u8/2023/04/11/1d4450c3/index.m3u8
+ssis-685河北彩花,
+ssis-721河北彩花,
+ssis-762河北彩花,
+ssis-839河北彩花,
+ssis-801河北彩花,
+ssis-875河北彩花,
 
 
 🔞玩偶_0595,#genre#
