@@ -212,11 +212,11 @@ ssis-531河北彩花,https://video50.avnyg.com/video/20230319/e477780ac5b219d32b
 ssis-560河北彩花,https://video45.balecao.com/video/20230223/a321c8e2fba9419cc67e78b8a8bf3ee0/index.m3u8
 oae-228河北彩花,https://video49.balecao.com/video/20230330/f9faa5013052b7d6caf2ce8369e0262a/index.m3u8
 ssis-586河北彩花,https://vip3.bfbfhao.com/20230810/7H6N1Thq/index.m3u8
-ssis-595河北彩花,https://vip3.bfbfhao.com/20230918/NaScF82p/index.m3u8
+ssis-595河北彩花,https://t21.cdn2020.com/video/m3u8/2023/03/09/7fa07383/index.m3u8
 ssis-607河北彩花,https://t21.cdn2020.com/video/m3u8/2023/04/11/1d4450c3/index.m3u8
-ssis-685河北彩花,
-ssis-721河北彩花,
-ssis-762河北彩花,
+ssis-685河北彩花,https://video57.bpzy1.com/video/20230621/fb6267ccabccfd89fbb5fcbba0fa83a7/index.m3u8
+ssis-721河北彩花,https://video58.tangrenfuli.com/video/20230724/ed264a71ce7c95e4c63ea47d85f7c805/index.m3u8
+ssis-762河北彩花,https://video58.tangrenfuli.com/video/20230724/ed264a71ce7c95e4c63ea47d85f7c805/index.m3u8
 ssis-839河北彩花,
 ssis-801河北彩花,
 ssis-875河北彩花,
