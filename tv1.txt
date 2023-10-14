@@ -213,13 +213,13 @@ ssis-560河北彩花,https://video45.balecao.com/video/20230223/a321c8e2fba9419c
 oae-228河北彩花,https://video49.balecao.com/video/20230330/f9faa5013052b7d6caf2ce8369e0262a/index.m3u8
 ssis-586河北彩花,https://vip3.bfbfhao.com/20230810/7H6N1Thq/index.m3u8
 ssis-595河北彩花,https://t21.cdn2020.com/video/m3u8/2023/03/09/7fa07383/index.m3u8
-ssis-607河北彩花,https://t21.cdn2020.com/video/m3u8/2023/04/11/1d4450c3/index.m3u8
-ssis-685河北彩花,https://video57.bpzy1.com/video/20230621/fb6267ccabccfd89fbb5fcbba0fa83a7/index.m3u8
-ssis-721河北彩花,https://video58.tangrenfuli.com/video/20230724/ed264a71ce7c95e4c63ea47d85f7c805/index.m3u8
-ssis-762河北彩花,https://video58.tangrenfuli.com/video/20230724/ed264a71ce7c95e4c63ea47d85f7c805/index.m3u8
-ssis-839河北彩花,
-ssis-801河北彩花,
-ssis-875河北彩花,
+ssis-607河北彩花,https://cdn152.akamai-content-network.com/bcdn_token=KQBFv-IZeEKeS4NwO0OGCUc9ezpvbUsMitBcYX8GrRU&expires=1697472606&token_path=%2F1f76f241-acc3-453d-bc4c-b15830f6c06b%2F/1f76f241-acc3-453d-bc4c-b15830f6c06b/playlist.m3u8
+ssis-685河北彩花,https://cdn152.akamai-content-network.com/bcdn_token=AuzknpFH16-gwcjyf79uFyELTiDG-K0J7Oyjp3IrgaM&expires=1697476732&token_path=%2Ff15a77ac-ab91-4e98-8bcf-e65f77732c3a%2F/f15a77ac-ab91-4e98-8bcf-e65f77732c3a/playlist.m3u8
+ssis-721河北彩花,https://znnuno-hamore.mushroomtrack.com/hls/eVRe9RQBoAdpCD_yQvrM3Q/1697315764/33000/33129/33129.m3u8
+ssis-762河北彩花,https://zluf-foocy.mushroomtrack.com/hls/lOCrjDIws7IU0An5k8vC5w/1697315737/34000/34010/34010.m3u8
+ssis-839河北彩花,https://zluf-foocy.mushroomtrack.com/hls/nlPVwO_5WnbC2VpzgdMvtw/1697315538/34000/34872/34872.m3u8
+ssis-801河北彩花,https://asf-doc.mushroomtrack.com/hls/LXFlB-RYfG9j6NvCviK-Iw/1697316135/35000/35484/35484.m3u8
+ssis-875河北彩花,https://astin-cowing.mushroomtrack.com/hls/_MPkjGbU9sza_dxoeRhN6g/1697315021/36000/36328/36328.m3u8
 
 
 🔞玩偶_0595,#genre#
