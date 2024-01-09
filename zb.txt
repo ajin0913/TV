@@ -10,11 +10,8 @@
 公视,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
 佛卫慈悲台,mitv://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
-台湾霹雳台1,http://pull.ws.anyrtc.io/live/ad964889782a4219803205fe5a072f60.flv
-台湾霹雳台2,p2p://211.75.214.186:9906/57a724af0001d6ca3d6729f763fd8e92.ts
-霹雳台湾台3,http://pili-live-hdl.qhmywl.com:80/dsdtv/14b736ee363e84918a8c43c69691faaa.m3u8
-霹雳台湾台4,mitv://generationnexxxt.com:19806/80b72d7a87c34d5abbdbf128e9cfc91a
-霹雳台湾台5,mitv://generationnexxxt.com:19806/d8e59dfa8bda4543b9d521cdbcca7db9
+霹雳台湾台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c72?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+霹雳台湾台,P2p://ns2.hellotvvod.com:9906/42dfe073dae34b14a078cde546fba306.ts
 🎉丨阿给姑专属,#genre#
 CCTV3,https://anren.live/t/ysp.php?id=cctv3
 湖南卫视,https://anren.live/t/ysp.php?id=hunws
