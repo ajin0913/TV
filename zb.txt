@@ -9,6 +9,8 @@
 华视,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 公视,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
+佛卫慈悲台,mitv://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
+台湾霹雳台,http://pull.ws.anyrtc.io/live/ad964889782a4219803205fe5a072f60.flv
 🎉丨阿给姑专属,#genre#
 CCTV3,https://anren.live/t/ysp.php?id=cctv3
 湖南卫视,https://anren.live/t/ysp.php?id=hunws
