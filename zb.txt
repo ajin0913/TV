@@ -10,8 +10,6 @@
 公视,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
 佛卫慈悲台,mitv://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
-霹雳台湾台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c72?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-霹雳台湾台,P2p://ns2.hellotvvod.com:9906/42dfe073dae34b14a078cde546fba306.ts
 🎉丨阿给姑专属,#genre#
 CCTV3,https://anren.live/t/ysp.php?id=cctv3
 湖南卫视,https://anren.live/t/ysp.php?id=hunws
